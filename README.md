@@ -1,3 +1,4 @@
+<img src="https://www.c-sharpcorner.com/article/what-is-git-github-and-github-desktop-and-create-a-git-repository-in-github-usi/Images/github.png">
 <h1 align="center">Hi 👋, I'm Choudhary Gous</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
