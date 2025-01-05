@@ -16,7 +16,7 @@
 <a href="https://twitter.com/@gousoffical3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gousoffical3007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/choudhary gous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choudhary gous" height="30" width="40" /></a>
 <a href="https://fb.com/choudhary gous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choudhary gous" height="30" width="40" /></a>
-<a href="https://instagram.com/choudhary_gous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choudhary_gous" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/choudhari_gaus/profilecard/?igsh=MWlrNjFocTRvamJkNw==](https://www.instagram.com/choudhari_gaus/profilecard/?igsh=MWlrNjFocTRvamJkNw==)](https://www.instagram.com/choudhari_gaus/profilecard/?igsh=MWlrNjFocTRvamJkNw==)](https://www.instagram.com/choudhari_gaus/profilecard/?igsh=MWlrNjFocTRvamJkNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choudhary_gous" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
